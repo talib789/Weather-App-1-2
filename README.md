@@ -49,6 +49,6 @@ My major takeaway from this project is that I learnt how to access each part of 
 
 # Sample Video
 
-https://streamable.com/5gn3vy
+https://user-images.githubusercontent.com/101327895/170945687-a2947ab1-5e1e-467c-8783-9d06d8c36f05.mp4
 
 
